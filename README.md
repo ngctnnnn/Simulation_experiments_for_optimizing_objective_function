@@ -3,8 +3,15 @@
 ## Simulation experiments for optimizing objective function 
 </div>
 
-### I. Introduction to objective function
-#### 1. Sphere function:
+### Table of contents
+1. [Introduction](#1-introduction-to-objective-function-for-optimization)
+2. [Differential Evolution](#2-differential-evolution)
+3. [Evolution Strategies](#3-evolution-strategies)
+4. [Cross Entropy Method](#4-cross-entropy-method)
+5. [Improved Cross Entropy Method](#5-improved-cross-entropy-method)
+
+### 1. Introduction to objective function for optimization
+#### a. Sphere function:
 <div align='center'>
   
 <img width="133" alt="Screen Shot 2021-10-26 at 19 59 54" src="https://user-images.githubusercontent.com/67086934/138883823-646e129f-168b-4a20-a286-fae0d673844b.png">
@@ -15,7 +22,7 @@
 <img width="514" alt="Screen Shot 2021-10-26 at 19 59 06" src="https://user-images.githubusercontent.com/67086934/138883678-8c647118-8a43-4eb6-a3c1-4592fdcdf1ab.png">
  </div>
  
- #### 2. Rosenbrock function
+ #### b. Rosenbrock function
  
  <div align='center'>
 <img width="293" alt="Screen Shot 2021-10-26 at 20 01 39" src="https://user-images.githubusercontent.com/67086934/138884188-7acac563-8764-4c7d-8249-aaa352ccd3e3.png">
@@ -26,7 +33,7 @@
 
 </div>
 
-#### 3. Rastrigin function
+#### c. Rastrigin function
 
 <div align='center'>
   
@@ -38,7 +45,7 @@
 <img width="501" alt="Screen Shot 2021-10-26 at 20 05 57" src="https://user-images.githubusercontent.com/67086934/138884870-b0e2a9a1-975b-494f-9eae-fbb36a120bda.png">
  </div>
  
-#### 4. Griewank function
+#### d. Griewank function
 
 <div align='center'>
   
@@ -50,7 +57,7 @@
 
 </div>
 
-#### 5. Ackley function
+#### e. Ackley function
 
 <div align='center'>
   
@@ -63,23 +70,27 @@
 
 </div>
 
-### II. Differential Evolution
-#### 1. Sphere function
+### 2. Differential Evolution
+#### a. Sphere function
 <div align='center'> 
   
 ![Sphere-DE-1024](https://user-images.githubusercontent.com/67086934/138877880-07734cfb-d726-4362-8c21-9e45ccf96e48.gif)
 </div>
 
-#### 2. Rosenbrock
+#### b. Rosenbrock
 ![Rosenbrock-DE-512](https://user-images.githubusercontent.com/67086934/138877913-ab6a177e-4243-4a46-856a-b4f227002cf4.gif)
 
-#### 3. Rastrigin
+#### c. Rastrigin
 
 ![Rastrigin-DE-512](https://user-images.githubusercontent.com/67086934/138878009-0c024160-cc4c-4cb7-a28a-5509243c2c0b.gif)
 
-#### 4. Griewank
+#### d. Griewank
 
-#### 5. Ackley
+#### e. Ackley
 ![Ackley-DE-1024](https://user-images.githubusercontent.com/67086934/138878031-98c096de-9825-4431-b6a2-4c80ede889f7.gif)
 
-### III. Evolution Strategies
+### 3. Evolution Strategies
+
+### 4. Cross Entropy Method
+
+### 5. Improved Cross Entropy Method
