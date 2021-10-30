@@ -10,6 +10,8 @@
 4. [Cross Entropy Method](#4-cross-entropy-method)
 5. [Improved Cross Entropy Method](#5-improved-cross-entropy-method)
 
+---
+
 ### 1. Introduction to objective function for optimization
 #### a. Sphere function:
 <div align='center'>
