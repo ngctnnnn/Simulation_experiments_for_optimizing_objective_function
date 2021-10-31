@@ -1,18 +1,24 @@
 <div align='center'>
 
-## Simulation experiments for optimizing objective function 
+## Simulation experiments for optimizing objective function
 </div>
 
 ### Table of contents
-1. [Introduction](#1-introduction-to-objective-function-for-optimization)
-2. [Differential Evolution](#2-differential-evolution)
-3. [Evolution Strategies](#3-evolution-strategies)
-4. [Cross Entropy Method](#4-cross-entropy-method)
-5. [Improved Cross Entropy Method](#5-improved-cross-entropy-method)
+1. [Prerequisites](#1-prerequisites)
+2. [Introduction](#2-introduction-to-objective-function-for-optimization)
+3. [Differential Evolution](#3-differential-evolution)
+4. [Evolution Strategies](#4-evolution-strategies)
+5. [Cross Entropy Method](#5-cross-entropy-method)
+6. [Improved Cross Entropy Method](#6-improved-cross-entropy-method)
 
 ---
 
-### 1. Introduction to objective function for optimization
+### 1. Prerequisites
+```python
+pip install -r requirements.txt
+```
+
+### 2. Introduction to objective function for optimization
 #### a. Sphere function:
 <div align='center'>
   
@@ -79,7 +85,7 @@
 
 </div>
 
-### 2. Differential Evolution
+### 3. Differential Evolution
 #### a. Sphere
 
 <div align='center'> 
@@ -120,7 +126,7 @@
   
 </div>
   
-### 3. Evolution Strategies
+### 4. Evolution Strategies
 #### a. Sphere 
 
 <div align='center'>
@@ -161,7 +167,7 @@
 
 </div>
 
-### 4. Cross Entropy Method
+### 5. Cross Entropy Method
 #### a. Sphere
 
 <div align='center'>
@@ -202,7 +208,7 @@
 
 </div>
 
-### 5. Improved Cross Entropy Method
+### 6. Improved Cross Entropy Method
 #### a. Sphere
 
 <div align='center'>

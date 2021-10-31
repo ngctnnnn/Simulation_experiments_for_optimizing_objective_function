@@ -1,0 +1,6 @@
+celluloid
+numpy 
+matplotlib
+tensorflow
+math
+python==3.8.1
