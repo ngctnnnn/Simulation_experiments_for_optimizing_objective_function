@@ -116,7 +116,8 @@
 <div align='center'>
   
 ![Ackley-DE-1024](https://user-images.githubusercontent.com/67086934/138878031-98c096de-9825-4431-b6a2-4c80ede889f7.gif)
-</dev>
+  
+</div>
   
 ### 3. Evolution Strategies
 #### a. Sphere 
