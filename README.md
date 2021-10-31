@@ -48,6 +48,7 @@
 <div align='center'>
 
 <img width="501" alt="Screen Shot 2021-10-26 at 20 05 57" src="https://user-images.githubusercontent.com/67086934/138884870-b0e2a9a1-975b-494f-9eae-fbb36a120bda.png">
+  
  </div>
  
 #### d. Griewank function
@@ -135,6 +136,7 @@
   ![Rosenbrock-ES-1024](https://user-images.githubusercontent.com/67086934/139563840-fb1b7ae2-080a-4eed-8fef-4c9b0760dc37.gif)
 
 </div>
+
 #### c. Rastrigin
 
 <div align='center'>
